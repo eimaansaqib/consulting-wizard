@@ -1,6 +1,6 @@
 # Consulting Wizard
 
-A consultancy application connecting students and alumnis
+A consultancy application connecting students and alumni
 
 ## Necessary Extensions
 
